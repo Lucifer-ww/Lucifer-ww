@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ---
 
-<font family="STXINGKA.TTF">临江仙·夜登小阁忆洛中旧游<br>
+<font family=".\STXINGKA.TTF">临江仙·夜登小阁忆洛中旧游<br>
 陈与义 〔宋代〕<br>
 <br>
 忆昔午桥桥上饮，坐中多是豪英。长沟流月去无声。杏花疏影里，吹笛到天明。<br>
