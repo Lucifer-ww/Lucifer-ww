@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 😄 Blog: <https://thomas.blog.csdn.net>
 - ⚡ zhihu: <https://www.zhihu.com/people/Code365>
 
-目前正在备考CSP认证，主要学习C++，其次Python
+初一，目前正在备考CSP认证，主要学习C++，其次Python
 
 偶尔会做一些小项目，比如Qt项目，Matplotlib、数独等。
