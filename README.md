@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CSP exam.
 - 🌱 I’m currently learning C++, Python.
-- 📫 How to reach me: 3392446642@qq.com----Not very often, please forgive
+- 📫 How to reach me: 3392446642@qq.com ----Not very often, please forgive
 - 😄 Blog: <https://thomas.blog.csdn.net>
 - ⚡ zhihu: <https://www.zhihu.com/people/Code365>
 
